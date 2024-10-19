@@ -1,0 +1,3 @@
+Number of letters: 16488
+Number of digits: 600
+Number of other characters: 200
